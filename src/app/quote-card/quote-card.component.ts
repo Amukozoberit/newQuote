@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { QuoteClass } from '../quote';
 
 @Component({
   selector: 'app-quote-card',
