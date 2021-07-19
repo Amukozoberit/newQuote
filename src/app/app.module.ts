@@ -7,6 +7,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { QuoteCardComponent } from './quote-card/quote-card.component';
 import { QuotesFormComponent } from './quotes-form/quotes-form.component';
 import { QuoteDetailsComponent } from './quote-details/quote-details.component';
+import { DateCountPipe } from './date-count.pipe';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { QuoteDetailsComponent } from './quote-details/quote-details.component';
     NavbarComponent,
     QuoteCardComponent,
     QuotesFormComponent,
-    QuoteDetailsComponent
+    QuoteDetailsComponent,
+    DateCountPipe
   ],
   imports: [
     BrowserModule,
