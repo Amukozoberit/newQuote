@@ -1,6 +1,31 @@
-# AngApp
+# AngularQuotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+# Author
+Mwashe Berit
+
+
+# Description
+Angular quotes is an application that enables users add posts of quotes and view existing quotes.<br>
+## A user should be able to:
+ #### View a quote post
+ #### add a quote post
+
+ ## The post should include:
+ #### visible body 
+ #### Togglable about section
+
+ ## About section
+
+#### Author
+#### likes
+#### Dislikes
+#### The person who post the quote
+
+
+# Project link
+https://amukozoberit.github.io/IPA/
+
 
 ## Development server
 
